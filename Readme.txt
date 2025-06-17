@@ -8,7 +8,7 @@ How to run the Cyber Cafe Management System (CCMS) Project
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with name ccmsdb
+5. Create a database with name ccmsdbs
 
 6. Import ccmsdb.sql file(given inside the zip package in SQL file folder)
 
